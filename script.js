@@ -1,9 +1,0 @@
-// PLANNING
-
-/* */
-
-// # STAGING
-// # DATA GATHERING
-// # EVENT HANDLING
-// # PROCESSING
-// # OUTPUT 
