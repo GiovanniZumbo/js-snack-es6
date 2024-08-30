@@ -60,6 +60,10 @@ console.log(gradesOver70);
 
 // * Step 3
 
-const gradesOver70IdOver120 = students.filter(student => student.grades > 70 && student.id > 120);
+// const gradesOver70IdOver120 = students.filter(student => student.grades > 70 && student.id > 120);
+
+// oppure
+
+const gradesOver70IdOver120 = gradesOver70.filter(student => student.id > 120);
 
 console.log(gradesOver70IdOver120);
